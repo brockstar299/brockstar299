@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning about game design and programming languages.
 - ⚡ Fun fact: I Made A Browser about pigs!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brockstar299&theme=juicyfresh" alt="brockstar299" /></a> </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c#)](https://skillicons.dev)
