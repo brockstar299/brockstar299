@@ -1,8 +1,8 @@
 # Hi, I’m @brockstar299
 
-- 👋 Hi, I’m brockstar299.
-- 👀 I’m interested in game development and coding.
-- 🌱 I’m currently learning about game design and programming languages.
-- ⚡ Fun fact: I Made A Browser about pigs!
+- 👋 Hi, I’m brockstar299 (aka MillieDevCats).
+- 👀 Interested in game development and coding.
+- 🌱 Currently learning game design and programming languages.
+- ⚡ Fun fact: I made a browser all about pigs!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,csharp)](https://skillicons.dev)
